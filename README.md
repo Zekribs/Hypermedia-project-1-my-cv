@@ -65,3 +65,4 @@ Layout:
 	As I  stated earlier, the design is inspired by my earlier CV and many other such templates I have seen.
 ## Link to Figma project
 httpswww.figma.comdesignH2nMypsPmMtMafYPiP8GnaCV-mock-upnode-id=0-1&t=9kRf5hTqpR2ERoq8-1
+Please note that the website link has been pinned to the description of this repository
